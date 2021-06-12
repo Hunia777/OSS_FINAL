@@ -1,7 +1,13 @@
 # Magic Mirror - My Own Secretary
 
+
 ## You can download it as a your secretary in your raspberry pi
    Magic mirror is open source software, therefore if you want to make your own secetary, it is good to download it.
+
+
+## Why using magic mirror
+   Magic mirror can show what i want. If i want to know the traffic when i go to office, i can make a module by using KAKAO map api and CCTV api. It means, the magic mirror has more powerful expandability. If you want to make smart home, it will be powerful screen(or mirror) in your home.
+
 
 
 ## Modules
@@ -36,3 +42,5 @@
 ## Youtube link: https://youtu.be/39_SRWp1Vho
    This video link is limited to the hyperlink.
 
+## If you want to ask some information
+   21600786@handong.edu
